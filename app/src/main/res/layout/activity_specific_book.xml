@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    tools:context=".Activities.SpecificBookActivity"
+    android:background="@drawable/gradientabackground2"
+    >
+
+    <include
+        android:id="@+id/toolbar_spe"
+        layout="@layout/appbar"
+        />
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+
+                android:orientation="vertical"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp">
+
+                <EditText
+                    android:id="@+id/bookNameTextInSpecificBookPage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Kitap İsmi" />
+
+                <EditText
+                    android:id="@+id/bookAuthorTextInSpecificBookPage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Kitabın Yazarı" />
+
+                <EditText
+
+                    android:id="@+id/phTextInSpecificBookPage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Yayın evi" />
+
+                <EditText
+                    android:id="@+id/pageNumberInSpecificBookPage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Sayfa" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginEnd="30dp"
+                android:layout_marginStart="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+               >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:text="Kayıt Yeri :"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+                <Spinner
+                    android:id="@+id/saveTo_spinner"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    />
+            </LinearLayout>
+
+            <ProgressBar
+
+                android:id="@+id/spinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/progress_bar_background"
+                android:elevation="10dp"
+                android:padding="10dp"
+                android:visibility="invisible"
+
+                />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <EditText
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:id="@+id/commentTextInSpecificBookPage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="start"
+                android:hint="Kitap hakkında bir şeyler yaz." />
+
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+
+            android:id="@+id/button_in_specific_book"
+            android:background="@drawable/buttonstyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+            android:onClick="updateAndSave"
+            android:text="Kitap bilgilerini güncelle" />
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

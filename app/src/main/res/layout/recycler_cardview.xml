@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:layout_margin="10dp"
+    android:backgroundTint="#DCDCDC"
+    app:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+            <TextView
+                android:layout_marginStart="10dp"
+                android:id="@+id/cardView_nameText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/image_view"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="Kitap İsmi"
+
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:id="@+id/cardView_authorText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+
+                android:layout_marginStart="10dp"
+
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="Yazar"
+                android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

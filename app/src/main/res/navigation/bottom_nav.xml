@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/nav_did">
+
+    <fragment
+        android:id="@+id/nav_did"
+        android:name="com.alitalhacoban.kitapligim.Fragments.did"
+        android:label="fragment_did"
+        tools:layout="@layout/fragment_did" />
+    <fragment
+        android:id="@+id/nav_doing"
+        android:name="com.alitalhacoban.kitapligim.Fragments.doing"
+        android:label="fragment_doing"
+        tools:layout="@layout/fragment_doing" />
+    <fragment
+        android:id="@+id/nav_to_do"
+        android:name="com.alitalhacoban.kitapligim.Fragments.to_do"
+        android:label="fragment_to_do"
+        tools:layout="@layout/fragment_to_do" />
+</navigation>

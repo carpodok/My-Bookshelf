@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095283469825",
+    "project_id": "kitaplik-e126a",
+    "storage_bucket": "kitaplik-e126a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095283469825:android:a77493bd86103bacc69a00",
+        "android_client_info": {
+          "package_name": "com.alitalhacoban.kitapligim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095283469825-9rgg7vqu6nhqn5h7cv90gsj2ri2pn52t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfo9cjnlrjtRWclLh8pH4OzCMhSWPuec0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095283469825-9rgg7vqu6nhqn5h7cv90gsj2ri2pn52t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
