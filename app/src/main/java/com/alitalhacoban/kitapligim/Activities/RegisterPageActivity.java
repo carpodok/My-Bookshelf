@@ -66,7 +66,6 @@ public class RegisterPageActivity extends AppCompatActivity {
 
             boolean isOK = true;
 
-
             if (userNameText.replaceAll("\\s+","").isEmpty()){
                 userName.setError("Kullanıcı adınızı girin.");
             }
@@ -145,8 +144,6 @@ public class RegisterPageActivity extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(),"Girdiğiniz mail adresine ait zaten  geçerli bir hesap bulunmaktadır .Başka bir mail adresiyle tekrar deneyin",Toast.LENGTH_SHORT).show();
                     }
                 }
-
-
             }
         });
 

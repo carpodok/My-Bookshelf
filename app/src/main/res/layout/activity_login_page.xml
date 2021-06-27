@@ -112,13 +112,7 @@
 
             </LinearLayout>
 
-
-
-
-
-
         </LinearLayout>
-
 
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="match_parent"
@@ -134,7 +128,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true">
-
 
             <ProgressBar
 
