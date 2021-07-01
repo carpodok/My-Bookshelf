@@ -26,7 +26,6 @@ import java.util.HashMap;
 
 public class AddNewBookActivity extends AppCompatActivity {
 
-
     EditText bookName, bookAuthor, bookComment, printingHouse, bookPage;
 
     boolean isSelectedSaveTo;

@@ -14,8 +14,6 @@ import androidx.appcompat.app.AppCompatDelegate;
 import com.alitalhacoban.kitapligim.Classes.Firebase;
 import com.alitalhacoban.kitapligim.R;
 
-
-
 public class SplasPageActivity extends AppCompatActivity {
 
     ImageView imageView;
