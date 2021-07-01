@@ -1,7 +1,8 @@
 
 # Kitaplığım Uygulaması
 
-Bu uygulamda okuduğun,okuyacağın veya şuan okuyor olduğun kitapları düzenli bir şekilde tutmak amaçlanmıştır.
+Bu uygulamda okuduğun,okuyacağın veya şuan okuyor olduğun kitapları düzenli bir şekilde tutmak amaçlanmıştır.\
+Uygulama Linki : https://play.google.com/store/apps/details?id=com.alitalhacoban.kitapligim
 
 ![feature](https://user-images.githubusercontent.com/64840495/124169797-51b6d280-daaf-11eb-84ff-c32e2acfce20.png)
  
