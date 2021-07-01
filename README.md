@@ -8,13 +8,13 @@ Bu uygulamda okuduğun,okuyacağın veya şuan okuyor olduğun kitapları düzen
 
 ## Uygulama İle Yapabileceklerin ;
 
--Kitaplarını okuduklarım,okuyacaklarım ve şuan okuyorum olarak 3 kategoride düzenli bir şekilde tutabilme.
--Eklenen kitapları silem.
--Eklenen kitapları teker teker düzenleyebilme.
-Kitapları isim, yazar, sayfa,yayın evi özellikleriyle birlikte kaydetme.
--Her kitaba özel o kitap ile ilgili düşünceleri yazabilme.
--Profil kısmında kaydettiğin tüm kitapların saysını kategöriye göre ayrı ayrı görme.
--Giriş yaptığınız mail adresi ile başka cihazdan giriş yaparak kaydettiğiniz kitaplara ulaşma.
+-Kitaplarını okuduklarım,okuyacaklarım ve şuan okuyorum olarak 3 kategoride düzenli bir şekilde tutabilme.\
+-Eklenen kitapları silem.\
+-Eklenen kitapları teker teker düzenleyebilme.\
+-Kitapları isim, yazar, sayfa,yayın evi özellikleriyle birlikte kaydetme.\
+-Her kitaba özel o kitap ile ilgili düşünceleri yazabilme.\
+-Profil kısmında kaydettiğin tüm kitapların saysını kategöriye göre ayrı ayrı görme.\
+-Giriş yaptığınız mail adresi ile başka cihazdan giriş yaparak kaydettiğiniz kitaplara ulaşma.\
 
 ### Uygulamadan Bzı Ekran Görüntüleri 
 
