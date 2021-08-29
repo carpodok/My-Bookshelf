@@ -1,5 +1,5 @@
 
-# Kitaplığım Uygulaması
+# :closed_book: Kitaplığım Uygulaması
 
 Bu uygulamda okuduğun,okuyacağın veya şuan okuyor olduğun kitapları düzenli bir şekilde tutmak amaçlanmıştır.\
 Uygulama Linki : https://play.google.com/store/apps/details?id=com.alitalhacoban.kitapligim
