@@ -20,7 +20,7 @@
 
 ### :camera:  Uygulamadan Bazı Ekran Görüntüleri 
 
-<img src="https://user-images.githubusercontent.com/64840495/124169874-6abf8380-daaf-11eb-8301-3be7cc0d781e.PNG"  width="290" > <img src="https://user-images.githubusercontent.com/64840495/124170003-917dba00-daaf-11eb-95fb-1fa798bb8c2f.PNG"  width="290" > <img src="https://user-images.githubusercontent.com/64840495/124170507-2e405780-dab0-11eb-8e9f-7c5f33e843c1.PNG"  width="300"  >
+<img src="https://user-images.githubusercontent.com/64840495/124169874-6abf8380-daaf-11eb-8301-3be7cc0d781e.PNG"  width="250" > <img src="https://user-images.githubusercontent.com/64840495/124170003-917dba00-daaf-11eb-95fb-1fa798bb8c2f.PNG"  width="248" > <img src="https://user-images.githubusercontent.com/64840495/124170507-2e405780-dab0-11eb-8e9f-7c5f33e843c1.PNG"  width="260"  >
 
 
 
